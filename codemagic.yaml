@@ -12,7 +12,7 @@ workflows:
       vars:
         BUNDLE_ID: "com.cptssd.codsdf"
         XCODE_WORKSPACE: "Capitain Cooks Recipe.xcodeproj/project.xcworkspace"
-        XCODE_SCHEME: "River Rock Quest Room"
+        XCODE_SCHEME: "Capitain Cooks Recipe"
         APP_STORE_APPLE_ID: 6740692966
       xcode: latest
       cocoapods: default
