@@ -40,7 +40,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - yartyr241993@gmail.com
+          - artyr241993@gmail.com
         notify:
           success: true
           failure: true
